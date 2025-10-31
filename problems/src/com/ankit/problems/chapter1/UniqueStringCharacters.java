@@ -12,7 +12,6 @@ import java.util.Arrays;
  * 2. For simplicity, lets consider it is an ASCII String - ASCII has a total of 128 characters.
  * In case of extended ASCII character set, this size can be considered to be of 256 characters.
  */
-
 public class UniqueStringCharacters {
 
     public static void main(String args[]) {
