@@ -1,4 +1,4 @@
-package com.ankit.problems.chapter1;
+package com.ankit.problems.chapter1.arraysandstrings;
 
 import java.util.Arrays;
 
